@@ -23,7 +23,7 @@ Experienced in scripting, creating logging and monitoring scripts to automate re
 <br><br>
 
 ## 🗂️ Highlight Projects
-[🦀 doxcer - A small tool which uses AI to automatically generate Markdown documentation for code](https://github.com/Stefan-Meeuwessen/doxcer)
+[🦀 doxcer - A CLI tool which uses Azure AI Foundry to automatically generate Markdown documentation for Notebooks](https://github.com/Stefan-Meeuwessen/doxcer)
 
 [🐍 PyBridge - A fun little data broker in Python](https://github.com/Stefan-Meeuwessen/PyBridge)
 
